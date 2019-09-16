@@ -12,4 +12,9 @@ public class Lommeregner {
       return resultat;
     }
 
+    int minus(int a, int b) {
+        int resultat = a + b;
+        return resultat;
+    }
+
 }
