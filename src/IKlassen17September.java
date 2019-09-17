@@ -5,12 +5,19 @@
  * 2019-09-17
  */
 
-public class AdvancedMethods {
+public class IKlassen17September {
 
     // Vi snakker om metodernes parametre & signatures
     // Input --> Gøre noget --> Output
 
+    // Programmering er et superkreativt fag!
+
+    // https://ums.easj.dk/Absence_protocol/protocol.aspx
+
+    // Klassernes opbygning
+
     public static void main(String[] args) {
+
 
         // Vi ser på eksemplerne fra 2 og 3 kapitel i bogen
 
@@ -45,7 +52,13 @@ public class AdvancedMethods {
         // Static members generelt
 
         // Metoder — vise call stack
+
+        // Selections
+
+        // Reading input from console
     }
+
+
 
 
 
