@@ -1,3 +1,5 @@
+package Kapitel2;
+
 /**
  * Developed by András Ács (acsandras@gmail.com)
  * Zealand / www.zealand.dk
@@ -25,6 +27,10 @@ public class Bil {
     short gearNed() {
         // @TODO 2 implementer skiftelogik
         return 1;
+    }
+
+    static void dyt() {
+        System.out.println("Dyt!");
     }
 
 }
