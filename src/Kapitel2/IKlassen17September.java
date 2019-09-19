@@ -61,16 +61,24 @@ public class IKlassen17September {
         // Selections
 
 
-        /* ------------------------------- */
+        /* ------------ Til systemudviklings-faget -------------- */
+        
+        // lave en main-metode,
+        // skelne mellem static og non-static,
+        // nedarve fra en superklasse,
+        // anvende metoder,
+        // anvende abstrakte metoder og
+        // udskrive til konsollen.
 
+        
+        /* ------------ Øvelser fortsat -------------- */
         // Metoder — vise call stack
-
-        // Reading input from console
-
-        // Vi udvikler følgende 2 metoder:
-        // double bmi(højde, vægt)
-        // String hello(navn)
+        // Reading input from console (repetition)
+        // Vi udvikler følgende 2 metoder testdrevent:
+        //   String hello(navn)
+        //   double bmi(højde, vægt)
         // Vi snakker om method signature
+        
     }
 
 
