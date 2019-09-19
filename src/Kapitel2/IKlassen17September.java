@@ -73,6 +73,7 @@ public class IKlassen17September {
         
         /* ------------ Øvelser fortsat -------------- */
         // Kreativ fag: se https://docs.google.com/presentation/d/1PrA-E-Y9metIL8rNZsMzF8xtu8bDdkuvIavN6DlMd-I/edit 
+        // Videoer: er til at holde ud med dobbelt hastighed :)
         // Metoder — vise call stack
         // Reading input from console (repetition)
         // Vi udvikler følgende 2 metoder testdrevent:
@@ -81,10 +82,5 @@ public class IKlassen17September {
         // Vi snakker om method signature
         
     }
-
-
-
-
-
 
 }
